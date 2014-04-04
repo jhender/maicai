@@ -4,12 +4,6 @@
         android:id="@+id/action_settings"
         android:orderInCategory="100"
         android:showAsAction="never"
-        android:title="@string/action_settings"/>
-    
-    <item
-        android:id="@+id/take_picture"
-        android:orderInCategory="90"
-        android:showAsAction="ifRoom"
-        android:title="take picture"/>
+        android:title="@string/action_settings"/>   
 
 </menu>
