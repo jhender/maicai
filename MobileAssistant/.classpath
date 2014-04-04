@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="src" path="endpoint-libs/libcheckinendpoint-v1/checkinendpoint/checkinendpoint-v1-generated-source"/>
+	<classpathentry kind="src" path="endpoint-libs/libdeviceinfoendpoint-v1/deviceinfoendpoint/deviceinfoendpoint-v1-generated-source"/>
+	<classpathentry kind="src" path="endpoint-libs/libmessageEndpoint-v1/messageEndpoint/messageendpoint-v1-generated-source"/>
+	<classpathentry kind="src" path="endpoint-libs/libofferendpoint-v1/offerendpoint/offerendpoint-v1-generated-source"/>
+	<classpathentry kind="src" path="endpoint-libs/libplaceendpoint-v1/placeendpoint/placeendpoint-v1-generated-source"/>
+	<classpathentry kind="src" path="endpoint-libs/librecommendationendpoint-v1/recommendationendpoint/recommendationendpoint-v1-generated-source"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
